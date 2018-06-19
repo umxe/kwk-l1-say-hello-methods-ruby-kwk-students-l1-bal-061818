@@ -5,4 +5,4 @@ def say_hello(name)
   else
     puts "Hello #{name}!"
 end
-say_hello()
+say_hello("")
