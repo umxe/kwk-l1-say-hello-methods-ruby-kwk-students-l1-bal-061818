@@ -1,6 +1,6 @@
 # Build your say_hello method here
 def say_hello(name)
-  when ""
+  if name.eq("")
     puts "Hello Ruby Programmer!"
   else
     puts "Hello #{name}!"
